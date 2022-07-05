@@ -1,0 +1,74 @@
+﻿{
+  "products": [
+    {
+      "id": "2bbbc2ab-dd3c-4409-bd6f-1d09df51f166",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 1",
+      "description": "Описание товара 1",
+      "price": 10000
+    },
+    {
+      "id": "378a8a63-e9c9-4d12-999e-afbdff3a78dc",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 2",
+      "description": "Описание товара 2",
+      "price": 5000
+    },
+    {
+      "id": "75122457-923a-4ca9-8d4f-23010bb684f8",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 3",
+      "description": "Описание товара 3",
+      "price": 1500
+    },
+    {
+      "id": "18f87a48-7bcd-4f72-8e34-e90194554152",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 4",
+      "description": "Описание товара 4",
+      "price": 15000
+    },
+    {
+      "id": "c57aefc5-4d1f-41f4-ac5f-56fd2891bfff",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 5",
+      "description": "Описание товара 5",
+      "price": 18500
+    },
+    {
+      "id": "0735f3a4-33bd-4bdc-a1c7-9de0697d46b3",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 6",
+      "description": "Описание товара 6",
+      "price": 500
+    },
+    {
+      "id": "907adf82-2719-482c-a899-98eb9617b355",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 7",
+      "description": "Описание товара 7",
+      "price": 3000
+    },
+    {
+      "id": "af923395-0c9f-4665-a969-79f2847ced7f",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 8",
+      "description": "Описание товара 8",
+      "price": 8000
+    },
+    {
+      "id": "16ab10ec-c503-459d-a6ee-41c7efa05c69",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 9",
+      "description": "Описание товара 9",
+      "price": 4500
+    },
+    {
+      "id": "90cbd0c3-cd40-4c33-ab62-3c8ab871cab3",
+      "image": "https://via.placeholder.com/150",
+      "name": "Товар 10",
+      "description": "Описание товара 10",
+      "price": 16000
+    }
+  ]
+}
